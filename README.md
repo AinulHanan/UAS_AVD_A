@@ -1,2 +1,2 @@
 # UAS_AVD_A
- Link data yang digunakan (csv) dan file analitik dan visualisasi data (file ipynb)
+ Data yang digunakan MobilePhones.csv (csv) dan file analitik dan visualisasi data MobilePhones.ipynb (file ipynb)
